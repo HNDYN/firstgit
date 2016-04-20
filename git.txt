@@ -1,2 +1,4 @@
 Hello World,Hello git
 dev branch : this is added by dev
+dev branch : test bug
+master branch : master test
